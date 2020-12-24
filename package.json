@@ -1,5 +1,5 @@
 {
-  "name": "reviewsystem",
+  "name": "nodebasicpage",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/poorboi94/ReviewSystem.git"
+    "url": "git+https://github.com/poorboi94/NodeBasicPage.git"
   },
   "keywords": [],
   "author": "Poorboi94",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/poorboi94/ReviewSystem/issues"
+    "url": "https://github.com/poorboi94/NodeBasicPage/issues"
   },
-  "homepage": "https://github.com/poorboi94/ReviewSystem#readme",
+  "homepage": "https://github.com/poorboi94/NodeBasicPage#readme",
   "devDependencies": {
     "nodemon": "^2.0.6"
   },
